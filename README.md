@@ -7,7 +7,7 @@
 - Find the downloaded zip file, unzip
 - Open CMD or Powershell and type "python main.py"
   **OR**
-- Use git clone (git clone 
+- Use git clone (git clone https://github.com/TheKaro/DE.git)
 ---
 ## REQUIREMENTS:
 - Python3 (Install here: https://apps.microsoft.com/detail/9PNRBTZXMB4Z?hl=en-us&gl=US&ocid=pdpshare)]
