@@ -17,4 +17,9 @@
 - Find the extracted "requirements.txt" file
 - Open CMD or Powershell
 - Type "pip install -r requirements.txt"
+
+** IF YOU DON'T HAVE PIP INSTALLED:
+- Open CMD or Powershell
+- CD to where the "get-pip" file is located
+- Use python get-pip.py
 ---
